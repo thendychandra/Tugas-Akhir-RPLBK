@@ -9,199 +9,253 @@
       "url": "https://goo.gl/maps/1AzZfY4hAfJuY4VMA",
       "img": "https://www.primarasaresto.com/templates/home_ikan_bakar_primarasa_resto/slider/data1/images/ayam_bakar_08.jpg",
       "menu": [
-        { "f": "Ayam Goreng", "p": "15.000" },
-        { "f": "Ayam Bakar", "p": "20.000" }
+        { "f": "Ayam Bakar/Goreng", "p": "22.154" },
+        { "f": "Ayam Bakar/Goreng 1 Ekor", "p": "88.616" },
+        { "f": "Gurami Bakar/Goreng", "p": "76.308" }
       ]
     },
     {
       "id": 2,
       "name": "The Hills Dining Restaurant",
-      "desc": "",
+      "desc": "The Hills Dining Restaurant adalalah salah satu restoran diatas bukit yang sangat cocok untuk dijadikan tempat untuk menikmati senja sambil menyantap aneka hidangan lezat. Dining Restaurant satu ini memiliki menu yang variatif yaitu perpaduan antara makanan western dan Nusantara.",
       "location": "Jl. Bukit Baladewa No.22-24, Ngesrep",
       "rating": 4.4,
       "url": "https://goo.gl/maps/YgLNvyvjnzRu8Yze8",
       "img": "https://2.bp.blogspot.com/-Y8Tz-YOCjYw/W6i8fCQ5TEI/AAAAAAAC1jc/adK1Ok7Tp9s7RzC42C9DqoB1RQPfLIE5wCLcBGAs/s1600/The%2BHills%2BDining%2BResto.png",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Rib Eye Steak", "p": "150.000" },
+        { "f": "Lamb Shank", "p": "185.000" },
+        { "f": "Beef Bowl", "p": "35.000" },
+        { "f": "Spaghetti Carbonara", "p": "40.000" },
+        { "f": "Nasi Goreng Jawa", "p": "25.000" },
+        { "f": "Dori Sambal Matah", "p": "40.000" }
+      ]
     },
     {
       "id": 3,
       "name": "Grill On Resto",
-      "desc": "",
+      "desc": "Grill On Resto merupakan salah satu tempat makan disemarang yang memiliki menu special yaitu sate kalak. Sate adalah makanan khas indonesia yang banyak dijumpai di berbagai daerah di pulau jawa dan sekitarnya. Namun Grill On Resto Semarang  berolasi di Jl. Sisingamangaraja, candisari ini menawarkan sate yang berbeda dari sate lainnya yaitu sate kalak. Sate kalak merupakan sate daging yang memiliki bumbu unik dan khas Grill On Resto di Semarang yaitu bumbu sate dengan ramuan special yang membuat resto ini menjadi laris dan membuat pelanggan terus kembali.",
       "location": "Jl. Sisingamangaraja No.27, Wonotingal",
       "rating": 4.2,
       "url": "https://goo.gl/maps/WNVzJaX2hMhANPvGA",
       "img": "https://3.bp.blogspot.com/-cvgswcQ1z4w/WPWAaj1R7zI/AAAAAAAABZU/owd1-v-JTgoD4CJ6R_bgq8BBvvbB2MfpACK4B/s640/lokasi-grill-on-resto-semarang.jpg",
-      "menu": []
+      "menu": [
+        { "f": "Sate Kalak", "p": "65.000" },
+        { "f": "Iga Bakar Grill On", "p": "49.000" }
+      ]
     },
     {
       "id": 4,
       "name": "Soto Bangkong",
-      "desc": "",
+      "desc": "Soto Ayam & Ayam Goreng Bangkong terkenal akan kelezatan sotonya, keunikan nama Bangkong menjadi salah satu daya tarik warung makan milik Joko Bennyanto ini, sehingga membuat banyak pengunjung penasaran. Dalam bahasa Jawa Sendiri, Bangkong berarti katak atau kodok berukuran besar yang biasa hidup di sawah. Namun, soto Bangkong tidak terbuat dari daging katak, penamaan Bangkong didasarkan pada lokasinya yang berada tepat di perempatan Bangkong.",
       "location": "Jl. Brigjen Katamso No.1, Peterongan",
       "rating": 4.3,
       "url": "https://goo.gl/maps/yTpqFBo7FUvnyx1BA",
       "img": "https://b.zmtcdn.com/data/pictures/0/18574190/a7f1efd9d19e4a66c0272aabdb562dd3.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Soto Ayam Campur", "p": "23.000" },
+        { "f": "Aneka Sate", "p": "7.000" }
+      ]
     },
     {
       "id": 5,
       "name": "Soto Kudus Mbak Lin",
-      "desc": "",
+      "desc": "Soto Ayam Khas Kudus Mbak Lin sudah melayani penikmat soto kudus sejak 10 tahun yang lalu di Semarang. Berawal di jalan Ahmad Dahlan, depan Rumah Sakit Telogo Rejo, Semarang, kini Soto Ayam Khas Kudus Mbak Lin telah membuka beberapa cabang, yaitu di : Jalan Ahmad Dahlan, depan Simpang Lima Residence, Jalan Puri Anjasmoro Raya, Semarang, Jalan Jati Raya, Banyumanik, Semarang dan Sebelah kanan RS Permata Medika, Semarang",
       "location": "Jl. Ki Mangunsarkoro No.15, Karangkidul",
       "rating": 4.5,
       "url": "https://goo.gl/maps/H8DWuxhmYzStBWpW9",
       "img": "https://thefreakyteppy.files.wordpress.com/2014/02/1-soto-kudus-mbak-lin-2.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Nasi Soto Ayam", "p": "8.000" },
+        { "f": "Aneka Sate", "p": "3.500" },
+        { "f": "Tempe Goreng", "p": "1.000" }
+      ]
     },
     {
       "id": 6,
       "name": "Cimory on the Valley",
-      "desc": "",
+      "desc": "Cimory adalah sebuah tempat wisata dengan konsep rekreasi dan edukasi yang sangat cocok dikunjungi bersama anak-anak guna menambah wawasan mereka. Cimory yang ada di Semarang ini memiliki nama Cimory On The Valley, tempat wisata Semarang yang satu ini sebenarnya adalah sebuah restoran yang berkonsep wisata edukasi.",
       "location": "Jl. Soekarno Hatta No.KM. 30, Bergas",
       "rating": 4.4,
       "url": "https://g.page/cimoryotv?share",
       "img": "https://1.bp.blogspot.com/--91N0qoS2r0/X0-OCdlBnjI/AAAAAAAAFqs/M8luAlvrOL85UmPDdWUE8nMALBJ8YOjTQCLcBGAsYHQ/s600/Cimory-on-the-valley-semarang.webp",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Chicken Steak", "p": "38.500" },
+        { "f": "Crispy Beef Blackpepper", "p": "36.500" }
+      ]
     },
     {
       "id": 7,
       "name": "Gulai Kepala Ikan Pak Untung",
-      "desc": "",
+      "desc": "SEGALA ANEKA MASAKAN GULAI KEPALA IKAN",
       "location": "Jl. Singosari II No.22, Pleburan",
       "rating": 4.5,
       "url": "https://g.page/gulai-kepala-ikan-pak-untung?share",
       "img": "https://10619-2.s.cdn12.com/rests/original/403_56484952.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Gulai Kepala Kakap", "p": "45.000" },
+        { "f": "Pesmol Kepala Kakap", "p": "45.000" },
+        { "f": "Gurami Pesmol", "p": "49.000" },
+        { "f": "Asem-asem Iga", "p": "41.000" }
+      ]
     },
     {
       "id": 8,
       "name": "Spiegel Bar & Bistro",
-      "desc": "",
+      "desc": "Spiegel Bar & Bistro merupakan kafe yang berlokasi di kawasan Kota Lama. Spiegel Bar & Bistro punya konsep restoran klasik Eropa.",
       "location": "Jl. Letjen Suprapto No.34, Tj. Mas",
       "rating": 4.5,
       "url": "https://goo.gl/maps/TQjtDjB8w2tbxzr17",
       "img": "https://johansurya.id/wp-content/uploads/spiegel-bar-bistro-eksterior.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Roast Beef Swiss Melt", "p": "60.000" },
+        { "f": "Chicken Club Sandwich", "p": "50.000" }
+      ]
     },
     {
       "id": 9,
       "name": "Kampung Laut",
-      "desc": "",
+      "desc": "Hidangan Indonesia klasik & seafood lokal disajikan di restoran luas dengan musik & panorama laut.",
       "location": "Jl. Anjasmoro Raya, Tawangsari",
       "rating": 4.4,
       "url": "https://goo.gl/maps/TJuLMDvTRQESwWDS8",
       "img": "https://countryhelper.com/media/entertainment/tiles/kampung-laut.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Gurami Goreng/Bakar (per ons)", "p": "7.500" },
+        { "f": "Bandeng Kropok (per ons)", "p": "5.500" }
+      ]
     },
     {
       "id": 10,
       "name": "Pesta Keboen",
-      "desc": "",
+      "desc": "Restoran simpel yang menyajikan hidangan Jawa klasik di tengah dekorasi tradisional yang cerah.",
       "location": "Jl. Veteran No.29, Lempongsari",
       "rating": 4.4,
       "url": "https://g.page/pestakeboen?share",
       "img": "https://semarangarea.com/media/restoran-pesta-keboen-semarang.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Ayam Goreng Kalasan", "p": "60.000" },
+        { "f": "Gurami Goreng", "p": "90.000" }
+      ]
     },
     {
       "id": 11,
       "name": "Selera Indonesia",
-      "desc": "",
+      "desc": "RM Selera Indonesia merupakan salah satu rumah makan dengan menu Indonesia, berada di Jalan Sultan Agung Semarang. Dengan suasana yang homy dan nyaman, aneka menu masakan khas Indonesia Orak Arik Peda, Sambal Tumpang, Ayam Besengek, Daun Pepaya dan lain lain.",
       "location": "Jl. Sultan Agung No.117, Gajahmungkur",
       "rating": 4.5,
       "url": "https://goo.gl/maps/3KaHfAhCRUUHxU7CA",
       "img": "http://4.bp.blogspot.com/-h56hioMpvvE/UZMssQVU1JI/AAAAAAAAJqQ/PhZm8-vngRQ/s1600/selera_indonesia_resto_sultan_agung.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Cumi Item", "p": "27.500" },
+        { "f": "Oseng Daun Pepaya", "p": "12.500" },
+        { "f": "Udang Ca Pete", "p": "18.750" }
+      ]
     },
     {
       "id": 12,
       "name": "Koenokoeni Cafe Gallery",
-      "desc": "",
+      "desc": "Berada area Candi, tepatnya di Jalan Tabanan No 4 Semarang, KoenoKoeni Cafe Gallery Semarang ini menyediakan 2 macam menu, Menu Jawa dan Menu ala Barat.",
       "location": "Jl.Tabanan No.4, Tegalsari",
       "rating": 4.4,
       "url": "https://goo.gl/maps/ntpPHJYhifcYCxRx7",
       "img": "https://dumaisatu.com/photo/berita/dir102019/9595_Nikmati-Makanan-dan-Seni-di-Koenokoeni-Cafe-Gallery.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [{ "f": "Nasi Goreng Buntut", "p": "43.000" }]
     },
     {
       "id": 13,
       "name": "Nglaras Rasa",
-      "desc": "",
+      "desc": "Beraneka macam masakan khas Jawa bisa ditemukan di resto ini, ada sate bumbu klaten, ayam bakar klaten, garang asam, gado-gado, ketoprak, gudeg dan masih banyak yang lainnya. Namun, untuk menu nasi gudeg yang paling digemari masyarakat Semarang selain menu nasi langgi, nasi gudangan, nasi berkat, nasi kuning, nasi bogana, nasi pecel dan juga lontong opor serta lontong cap go meh.",
       "location": "Jl. MH Thamrin No.126-128, Miroto",
       "rating": 4.3,
       "url": "https://goo.gl/maps/NANnG7NXX2DU9J559",
       "img": "https://media-cdn.tripadvisor.com/media/photo-s/0e/5f/0f/e1/depan.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Rawon", "p": "22.500" },
+        { "f": "Sop Buntut", "p": "27.500" }
+      ]
     },
     {
       "id": 14,
       "name": "Kedai Gula Jawa",
-      "desc": "",
+      "desc": "Kedai Gula Jawa adalah tempat makan sekaligus nongkrong yang asik di Semarang.",
       "location": "Jl. Singosari Raya No.49, Pleburan",
       "rating": 4.5,
       "url": "https://goo.gl/maps/7uoareDfPrKeE6w29",
       "img": "https://jatenglive.com/images/news/Dapatkan-Nuansa-Homey-di-Kedai-Gula-Jawa-news20180920-gula%20jawa,%20makanan%20khas%20semarang.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Bestik Sapi", "p": "50.000" },
+        { "f": "Dory Fettucini", "p": "30.000" }
+      ]
     },
     {
       "id": 15,
       "name": "Delman Resto",
-      "desc": "",
+      "desc": "Delman Resto menawarkan sebuah alternatif tempat makan bagi Anda yang mencari suatu tempat kuliner yang tidak biasa di kota Semarang. Dengan tag line Little Paradise In Town, Delman Resto hadir memberikan suguhan tempat kuliner yang menawan. Landscape bangunan dan lingkungan di dalamnnya dirancang sedemikian rupa sehingga menampilkan keindahan dari sebuah konsep rumah tradisional Jawa yang dikelilingi oleh taman dengan gasebo-gasebo kecil di samping Joglo.",
       "location": "Jl. Simongan No.22A, Ngemplak Simongan",
       "rating": 4.3,
       "url": "https://goo.gl/maps/1TZQf2wLiquG6JRk6",
       "img": "https://1.bp.blogspot.com/-gbw9GDJ0zio/YLOU1L1LWOI/AAAAAAAAZsQ/CyqY6nWjjwQTx37svNIHZXsVdoMRDcH4ACLcBGAsYHQ/w1200-h630-p-k-no-nu/DELMAN%2BRESTO%2BSEMARANG.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Ayam Goreng", "p": "16.500" },
+        { "f": "Gurami Bakar", "p": "55.000" }
+      ]
     },
     {
       "id": 16,
       "name": "Ikan Bakar Cianjur",
-      "desc": "",
+      "desc": "IBC pertama kali dibuka pada tahun 1989 di kota Cianjur, Jawa Barat dimana IBC kemudian memenangkan kompetisi memasak lokal. Tak lama kemudian, mereka bercabang ke ujung timur Jawa di kota Surabaya pada tahun 1994.",
       "location": "Jl. Letjen Suprapto No.19, Purwodinatan",
       "rating": 4.5,
       "url": "https://goo.gl/maps/DnwDU4CoP6jzeH4b7",
       "img": "http://4.bp.blogspot.com/-BmPY0BtiPhk/VYZMpNuOqBI/AAAAAAAACoY/2WsmjYNdo0s/s1600/Ikan%2BBakan%2BCiganjur%2BMemang%2BMaknyus.JPG",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Gurame Goreng/Bakar", "p": "88.000" },
+        { "f": "Ayam Goreng", "p": "22.000" }
+      ]
     },
     {
       "id": 17,
       "name": "Ayam Goreng Kampung Kali",
-      "desc": "",
+      "desc": "Rumah makan bernuansa cerah yang menyajikan ayam goreng pedas dan masakan Indonesia lainnya di tempat simpel.",
       "location": "Jl. Mayor Jend. D.I. Panjaitan No.45, Miroto",
       "rating": 4.4,
       "url": "https://goo.gl/maps/qiQ1fRAswdmAAWk97",
       "img": "https://youimg1.c-ctrip.com/target/100i0o000000f57ptF76B_D_600_400_Q90.jpg?proc=autoorient",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [{ "f": "Ayam Goreng", "p": "20.000" }]
     },
     {
       "id": 18,
       "name": "Selasih Resto",
-      "desc": "",
+      "desc": "Rumah Makan Selasih Semarang merupakan satu resto dengan menu masakan asli Indonesia, seperti Nasi Pecel, Baby Kailan Seafood, Ayam Goreng Kremes, Galantin, Tumpeng Gudangan, Es Kelamud maupun Es Selasih. Sarapan pagi juga tersedia disini, karena Selasih Resto buka setiap harinya mulai pukul 07.00 wib – 21.00 wib. Resto Selasih Semarang Sultan Agung ini juga menyediakan fasilitas untuk melayani segala macam kegiatan anda seperti Reuni, Resepsi, Jamuan Makan, Meeting/Rapat, Pesta Ulang Tahun, Pesta Pernikahan, Buka Puasa maupun Halal Bihalal.",
       "location": "Jl. Sultan Agung No.81, Gajahmungkur",
       "rating": 4.4,
       "url": "https://goo.gl/maps/ShnzeCi45hp5wgQM9",
       "img": "https://i1.wp.com/dosenwisata.com/wp-content/uploads/2019/10/Selasih-Resto.jpg?resize=655%2C655&ssl=1",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [
+        { "f": "Nasi Goreng Selasih", "p": "30.000" },
+        { "f": "Nasi Ayam Hainan", "p": "35.000" }
+      ]
     },
     {
       "id": 19,
       "name": "Lind's Ice Cream & Resto",
-      "desc": "",
+      "desc": "Lind’s Ice Cream & Resto hadir 24 jam. Resto yang terletak di Jalan Papandayan 99 Semarang ini memanjakan para pengunjung dengan beragam masakan. Aneka es krim, tom yam soup with salmon head, mini sandwich, fruit salad, brownies, croquette, pofertjes, dan special ice taart for dessert.",
       "location": "Jl. Papandayan No.99, Gajahmungkur",
       "rating": 4.4,
       "url": "https://goo.gl/maps/r7DXYCSnL7t3i9FX6",
       "img": "https://1.bp.blogspot.com/-xlvs5Vbq3-Q/YLt1kZVjrlI/AAAAAAAAZxk/o6TxfVqIQmYdOUP2Gt0ylT4czTdm5mgBQCLcBGAsYHQ/s1280/LINDS%2BICE%2BCREAM%2B%2526%2BRESTO%2BSEMARANG.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": [{ "f": "Banana Split", "p": "35.000" }]
     },
     {
       "id": 20,
       "name": "Valle Pizza E Resto",
-      "desc": "",
+      "desc": "Pizza, Italia, Dessert, Ikan",
       "location": "Jl. Diponegoro No.22A, Tegalsari",
       "rating": 4.3,
       "url": "https://goo.gl/maps/o5odL9y1UUjayowm7",
       "img": "https://asset.kompas.com/data/photo/2015/03/30/1523376Velozity-2780x390.jpg",
-      "menu": [{ "f": "Ayam Goreng", "p": "15.000" }]
+      "menu": []
     }
   ]
 }
